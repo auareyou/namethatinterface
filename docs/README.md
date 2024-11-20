@@ -1,5 +1,6 @@
 
-<img width="1280" alt="cover" src="https://github.com/user-attachments/assets/80af79ca-07cd-41a6-aeeb-ca4ef4980444">
+![cover](https://github.com/user-attachments/assets/6aed572b-078b-491f-ac71-272bcfbc2b76)
+
 
 ## namethatinterface
 A repository of all the things I ask chatGPT about interface design
